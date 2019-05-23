@@ -14,3 +14,4 @@ Note: *If no README file exists, create one and leave it blank*
 
 4. Get distracted via table
 7. `FoRgEt WhIcH nUmBeR yOu'Re On` (I entered 7 but it interprets 7 as the next number in the list)
+42.![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "hi")

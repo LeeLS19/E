@@ -13,4 +13,4 @@ Note:*If no README file exists, create one and leave it blank*
 |AEaeaeaeaea    |   usemoretables   | tablE.|
 
 4. Get distracted via table
-6. `FoRgEt WhIcH nUmBeR yOu'Re On`
+7. `FoRgEt WhIcH nUmBeR yOu'Re On`

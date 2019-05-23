@@ -14,4 +14,4 @@ Note: *If no README file exists, create one and leave it blank*
 
 4. Get distracted via table
 7. `FoRgEt WhIcH nUmBeR yOu'Re On` (I entered 7 but it interprets 7 as the next number in the list)
-8.![alt text](https://battlefieldhs.pwcs.edu/common/pages/GalleryPhoto.aspx?photoId=16929018&width=180&height=180 "hi")
+6.![alt text](https://battlefieldhs.pwcs.edu/common/pages/GalleryPhoto.aspx?photoId=16929018&width=180&height=180 "hi")
